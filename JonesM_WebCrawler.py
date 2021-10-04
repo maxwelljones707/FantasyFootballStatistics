@@ -1,6 +1,5 @@
-# File: Homework: Python and Web Scraper
-# Maxwell Alexander Jones
-# maj3js
+# File: Fantasy Football Web Scraper
+
 
 # Beautiful Soup learned from https://beautiful-soup-4.readthedocs.io/en/latest/
 
